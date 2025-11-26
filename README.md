@@ -134,16 +134,10 @@ Avoid entering sensitive information when using the app.
 
 ---
 
-## License
-
-MIT License — add your license details here.
-
----
-
 ## Author
 
 **Abdul Rehman**
-Web developer & data enthusiast.
+Data enthusiast.
 
 ---
 
